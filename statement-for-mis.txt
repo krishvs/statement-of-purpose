@@ -3,12 +3,38 @@ I am currently working as a web-developer as part of a team incharge of dev-ops 
 While I have greatly enjoyed working as a developer, I feel that it is essential that I combine my background in computer development with further education about the management of technology.
 This has attracted me to the Ms MIS prgramme offered by cmu which would not only help in my short term career goal of learning technology management but also my long term goal of creating and developing my own product/startup. // shorten this line
 
-My first computer - A windows 1998 was a gift for my 8th birthday.
+My first computer - A windows 1995 was a gift for my 6th birthday.
 While I didn't get into programming until much later I greatly enjoyed playing "asteroids" among other games on it.
 Having studied in several countries during my schooling days the computer provided me with the platform to make friends from a variety of cultures based on a common love for computer games. // sentence is too long - remove?
 My first programming assignment was in the 12th grade,the central board of education had a compulsory computer science project to be submitted to graduate high school.
 I took this oppurtunity to re-create "asteroids" in c++.
 I greatly enjoyed both the logical complexity well as the satisfaction that programming offered,and was awarded top mark.This experience convinced me to take up my undergraduation in the field of computer science.
 
-I decided to enroll at SSN college - one of the best college in india run by HCL( a fortune 500 IT company).It was during my first year that I was exposed to the world of web development.I was extremely fascinated and applied for a part time job at a tech company and was offered a job as a web developer after college hours in the evening.It was here that I was first exposed to the intracies and challenges of product development.Based my performance the company offered me the oppurtunity to intern at their campus in Singapore.Working on a time contrained project for a fortune 500 client in an international setting was a eye opener and further fueled my passion.Having programmed using java during the iternship I decided to take the oracle java certification exam which I passed with flying colors.Java instilled in me a passion for opensource software and I started actively participitating in several opensource clubs at college.
+I decided to enroll at SSN college - one of the best college in india run by HCL(a fortune 500 software company).
+
+During my first year I had courses on programming that taught me c++ and basic web-development.
+My curiosity piqued, I applied for an internship at 7stl - a startup in Chennai.
+The company offered me an opportunity to intern at their singapore campus.
+It was my first international intern experience and I was exposed to a variety of technologies like redis , jsf etc.
+During the internship I worked on an human capital management module of a larger erp system for Qatar airways.
+The time and resource constrained nature of the project made me appreciate the importance of project management.
+
+During my second year of undergraduation I starting actively participating in several programming clubs at college.
+My intership helped me with learning java and I decided to take the oracle certification for java which I passed with flying colors.
+I started participating in a number of national level technical symposiums as well and won several programming and quiz events.
+Recognising my passion I was choosen to represent the college at the prestigious ACM-ICPC indian finals conducted by IBM.
+Our team placed 58th out of 300 teams which had qualified for the finals.
+Participating and winning the tech symposium at ceg,anna university got me my second internship.
+The event was sponsered by Dell Force10Networks and was offered an internship at their R&D center in chennai.
+
+
+
+
+
+
+One of these symposiums was sponsered by dell and I was invited to do an internship at their r and d division in chennai after being placed second overall in the symposium.
+I worked on an snmp manager for their virtual routers during the internship.
+
+
+It was during my first year that I was exposed to the world of web development.I was extremely fascinated and applied for a part time job at a tech company and was offered a job as a web developer after college hours in the evening.It was here that I was first exposed to the intracies and challenges of product development.Based my performance the company offered me the oppurtunity to intern at their campus in Singapore.Working on a time contrained project for a fortune 500 client in an international setting was a eye opener and further fueled my passion.Having programmed using java during the iternship I decided to take the oracle java certification exam which I passed with flying colors.Java instilled in me a passion for opensource software and I started actively participitating in several opensource clubs at college.
 During my second year of undergraduation I started participating in several national level tech symposiums where I won several programming and quiz events in prestigious universities.Based on my onvolvement and interest in computer science I was elected as the secretary of The ACM student chapter at my college during their third year of undergraduation.Representing the college in the indian acm-icpc finals conducted by IBM at amrita university exposed me to the top developers from across the country.Participating in these symposiums also led me to my first internship at an researh and development facility.
