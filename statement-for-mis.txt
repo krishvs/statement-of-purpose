@@ -23,10 +23,39 @@ During my second year of undergraduation I starting actively participating in se
 My intership helped me with learning java and I decided to take the oracle certification for java which I passed with flying colors.
 I started participating in a number of national level technical symposiums as well and won several programming and quiz events.
 Recognising my passion I was choosen to represent the college at the prestigious ACM-ICPC indian finals conducted by IBM.
-Our team placed 58th out of 300 teams which had qualified for the finals.
-Participating and winning the tech symposium at ceg,anna university got me my second internship.
-The event was sponsered by Dell Force10Networks and was offered an internship at their R&D center in chennai.
+Our team placed 58th out of 300 colleges which had qualified for the finals.
+Based on my performance in college I was elected as the secretary of the student chapter of ACM
 
+Participating and winning tech symposiums got me my second internship.
+The symposium at ceg,anna university was sponsered by Dell Force10Networks and I was offered an internship at their R&D center in chennai after winning 7 out of 8 programming events.
+I worked on the snpm manager of their routers writing a balancer in python.
+It was my first experience interning at a R&D center and I was able to learn first hand how large scale data centers are set up and managed. 
+The internship also to introduced me to the concepts of distributed programming.
+
+My internship experiences along with my graduation courses piqued my interest in cloud computing and I started working on a javascript framework that could be programmed once and deployed everywhere - the cloud,desktop or mobile.
+I decided to undertake my undergraduation thesis on the same project under Prof balasubramaniam.
+To test the feasablity of the project under real world settings our thesis team re-wrote our colleges internal examination tools using our framework.
+It was a sucess and our thesis was chosen to be displayed at the AICTE sponsed industry conference where we were to judged by industry experts from a variety of fortune 500 companies like CTS and HCL.
+Our project was awarded the best undergraduation thesis in the conference.
+
+After graduation I joined Zoho - considered by many to be india's most successfull IT product company as a software developer.
+I was part of the team responsible for storage and analysis of the millions of the documents created daily by the companies customers.
+As a team of 9 ot was a great learning experience where I experienced first hand developing and managing software at such a large scale.
+
+It was 2 months into this job that I met my current employeer at a technology conference.
+A former employee of Zoho, he had left to start a software helpdesk startup called Freshdesk.
+After a brief 5 minute talk over coffee he suprised me by inviting me to come work with him.
+I decided to take the risk and joined the startup.
+3 months into the job based on my performance I was shifted to the operations and performance team and was directly reporting to the CTO for all technology related issues.
+It was my first promotion and with it I was also one of the very few employees offered stock options.
+During my stay at freshdesk the company has raised more than 56 million dollars and is the only company to be funded by google capital in india.
+Being responsible for all of freshdesk's soft real time systems written in nodejs and erlang has been a very challenging experience.
+The company's product has grown from recieving 10 or 15 req/second to 25000 req/second.
+Scaling at this rate and operating at this scale has been a great learning experience.
+
+Along with my job I am also an avid traveller.Having travelled to 18 countries, I started venturing into adventure sports while working.
+In the past one year I have trekked in the himalayas in bhutan, skuba dived in singapore and explored the country side of cambodia.
+My passion for travelling made me create tripplanner.io - a travel plannig and blogging platform,and is currently used by a niche group of travellers
 
 
 
