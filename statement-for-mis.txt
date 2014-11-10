@@ -55,7 +55,16 @@ Scaling at this rate and operating at this scale has been a great learning exper
 
 Along with my job I am also an avid traveller.Having travelled to 18 countries, I started venturing into adventure sports while working.
 In the past one year I have trekked in the himalayas in bhutan, skuba dived in singapore and explored the country side of cambodia.
-My passion for travelling made me create tripplanner.io - a travel plannig and blogging platform,and is currently used by a niche group of travellers
+My passion for travelling made me create tripplanner.io - a travel plannig and blogging platform,and is currently used by a niche group of travellers.
+
+Along with a group of friends, I created Rajnilang - a programming language based on the film dialogues of famous indian filmstar Rajnikanth to teach programming to children.
+We launched the project at a technology event conducted by paypal.
+We recieved wide press coverage praising the innovative initiative with personal interviews in several national newspapers like The econic times,Hindu etc.
+The initiative led to being invited to ycombinators first startup school to be held outside of USA in london.
+
+My background in computer science developed and the experiences that I have had in my career uptill now has convinced me that technology management is a vital skill that needs to be learned to create any sucessfull product.
+I feel that the ms in mis at cmu is perfectly alligned with both by short term goal of getting into project management and my long term goal of setting up my own startup.
+
 
 
 
