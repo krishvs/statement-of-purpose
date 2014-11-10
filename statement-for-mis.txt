@@ -1,7 +1,6 @@
-My primary interest lies in the design and implementation of software systems in the field of web-technologies.// should i start with interest in the begenning
-I am currently working as a web-developer as part of a team incharge of dev-ops and performance tuning for one of the top 2000 most used websites in the world.// use india's top startup instead?
-While I have greatly enjoyed working as a developer, I feel that it is essential that I combine my background in computer development with further education about the management of technology.
-This has attracted me to the Ms MIS prgramme offered by cmu which would not only help in my short term career goal of learning technology management but also my long term goal of creating and developing my own product/startup. // shorten this line
+For the past year and half I have been working as a developer at a startup that has grown from obscurity to become the largest online helpdesk software firm in india during the period.
+As an early stage employee of the firm,I have witnessed first hand the importance of technology management and design in developing a world class product.
+I would like to learn these skills so that I can manage my own product in the future.
 
 My first computer - A windows 1995 was a gift for my 6th birthday.
 While I didn't get into programming until much later I greatly enjoyed playing "asteroids" among other games on it.
