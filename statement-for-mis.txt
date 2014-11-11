@@ -1,6 +1,66 @@
-For the past year and half I have been working as a developer at a startup that during the period has grown from obscurity to become the largest online helpdesk software firm in india.
+For the past year and half I have been working as a developer at a startup that during this period has grown from obscurity to become the largest online helpdesk software firm in india.
 As an early stage employee of the firm,I have witnessed first hand the importance of technology management and design in developing a world class product.
 I would like to learn these skills so that I can manage my own product in the future.
+
+My interest in design and development of technology products started during my undergraduation.
+I graduated from Anna university in 2013 with a degree in computer science and engineering.
+While I have been programming since my eight grade it was only during my first year of undergraduation that I was exposed to the field of web development.
+The ability to reach millions of online users across the world piqued my curiousity.
+To learn more I applied for an internship at a 7stl - a software firm in chennai during my first year.
+The company offered me the oppurtunity to intern at their singapore campus.
+While I had completed part of my schooling abroad in Dubai the internship was my first international experience in a professional setting.
+During the internship I worked on an Human capital management module of a larger erp system for Qatar airways.
+The time and resource constraint nature of the project created a high energy environment in the office and the internship was an enriching experience both in helping me develop as a programmer as well as exposing me to the importance of project management.
+
+In my second year of undegraduation I was taught courses in data structures, algorithms and programming languages.
+These courses along with my internship provided me with a strong base in java and I completed the oracle certification for java programming.
+During this period I participated and won several national level tech symposiums.
+Winning one of these events led me to my second internship at Dell force10 networks.
+Dell who were the sponsers of the event held at College of engineering,guidy invited me to do an internship at their global r&d center in chennai.
+I was assigned to create a module for their snmp manager for one of their new routers.
+Interning at a research center where the some of the world's best routers are designed and developed was an interesting experience. 
+It was my first experience in hardware programming and I learned that systems that control development processes were as important as the actual development of the product itself.
+
+My internship at Dell got me interested in distributed computing and I choose it as the topic for my undergraduation thesis.
+Working under Prof Balasubramaniam, our team of 3 developed a javascript framework that allowed the user to develop once and deploy across platforms - web,mobile and desktop.
+To test the feasablity of the idea we implemented several of our college's examination tools using the framework.
+The implementation was a sucess and the college decided to showcase the project at the AICTE sponsered industy conference.
+Here the project was judged by industry experts from serveral fortune 500 companies like CTS and HCL.
+Our project got awared the best undergraduation thesis at the conference.
+It was the first product that I had developed from scratch and convinced me to take a job focused on distributed and cloud computing.
+
+After graduation I joined Zoho - a software company considered by magazines like TIME to be india's most successfull IT product company.
+I was part of the operations team responsible for maintaing their online storage system.
+With millions of documents created daily this was one of the largest implementations of document storage in the world.
+Zoho being one of the most used websites in the world, I was trained in a variety of technologies to handle big data like hadoop, solr etc.
+It was 2 months into this job that I met my current employeer.
+I have always been interested in startups and it was during one of the startup meetups that I met the founder of Freshdesk - my current employer.
+A former employee of Zoho, he had left a year back to start a online helpdesk company.
+After a brief 5 minute talk over coffee he suprised me by inviting me to come work with him.
+I liked the product being developed and decided to take the risk and quit Zoho.
+
+Being an early stage employee I was given complete freedom as far as programming decisions were concerned.
+This helped me flourish technology wise as I was fully responsible for any feature assigned to me.
+3 months into the job based on my performance I was shifted to the operations and performance team and was directly reporting to the CTO for all technology related issues.
+It was my first promotion and with it I was also one of the very few employees offered stock options.
+During my stay at freshdesk the company has raised more than 56 million dollars and is the only company to be funded by google capital in india.
+Being responsible for all of freshdesk's soft real time systems written in nodejs and erlang has been a very challenging experience.
+The company's product has grown from recieving 10 or 15 req/second to 25000 req/second.
+Scaling at this rate and operating at this scale has been a great learning experience.
+
+My job also gave me the flexibilty to travel around the world.In the last year I have trekked in the himalayas in bhutan,skuba dived in singapore and camped in the rural areas of cambodia.To help fellow travellers I also created tripplanner.io - a travel planning and blogging platform which has a niche user base.Recognising my entreprenueral streak I was invited to the first startup school conducted by US based startup accelerator ycombinator in london which I attended.
+
+In addition to my job, to help disadvantaged children learn computer science myself and a group of friends developed Rajnilang - A general purpose computer language based on the film dialogues of famous Indian filmstar Rajnikath.
+The initiative recieved widespread appreciation and was widely covered in several leading newspapers across India like the economic times and the hindu along with our personal interviews.
+
+I have a dream of designing and developing my own software product.
+While I have some computer development skills, I feel that it is essential for me to learn design and management principles focussed on engineering to make that dream a reality.
+It was for this reason that I am applying to the MS in MIS programme at CMU which perfectly aligns with my goal of learning the forementioned skills.
+
+
+
+
+
 
 My first computer - A windows 1995 was a gift for my 6th birthday.
 While I didn't get into programming until much later I greatly enjoyed playing "asteroids" among other games on it.
